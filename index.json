@@ -1,0 +1,32 @@
+{
+  "apps": [
+    "age",
+    "ant",
+    "apktool",
+    "azure-cli",
+    "bento4",
+    "clink",
+    "controlmymonitor",
+    "dash-mpd-cli",
+    "ffmpeg",
+    "ghidra",
+    "go",
+    "hashcat",
+    "immich-go",
+    "jadx",
+    "java",
+    "maven",
+    "mingw",
+    "mkvtoolnix",
+    "node",
+    "nssm",
+    "nuget",
+    "oh-my-posh",
+    "opentofu",
+    "qpdf",
+    "sops",
+    "sshd",
+    "terraform",
+    "terragrunt"
+  ]
+}
